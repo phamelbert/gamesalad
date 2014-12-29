@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game GSCVersion="0.10.2" PGFVersion="0.19" title="Pong"><resolutionIndependence>0</resolutionIndependence><instructions>From &quot;Introduction to Mobile Game Development&quot; at Udemy.com.
+
+By Jamie Cross (www.jamie-cross.net)</instructions><resolution>7</resolution><longDescription>A straight up remake of the classic Atari game Pong.</longDescription><prototypes/><plugins><attributes id="playhaven"/><attributes id="qqgamecenter"><boolean id="enabled">false</boolean></attributes></plugins><scenes><scene id="id269551"/></scenes><attributes><text id="name">default name</text><real id="time">0</real><size id="displaySize"><real id="width">480</real><real id="height">320</real></size><text id="actorTags"></text></attributes></game>
